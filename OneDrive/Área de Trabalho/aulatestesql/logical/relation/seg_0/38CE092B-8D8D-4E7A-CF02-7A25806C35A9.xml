@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_2" directorySegmentName="seg_0" id="38CE092B-8D8D-4E7A-CF02-7A25806C35A9">
+<createdBy>fbdio</createdBy>
+<createdTime>2023-04-08 01:37:36 UTC</createdTime>
+<ownerDesignName>aulatestesql</ownerDesignName>
+<engineerTo>
+<item key="92F2093F-6571-F468-83F5-038E32E6D1B6" value="true"/>
+</engineerTo>
+<sourcePk>1086B3F5-4B71-6471-AB17-7A032CB1BFBE</sourcePk>
+<targetPk>D111308C-05A8-82F6-B4E9-71D9EA1E9FB3</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>C956A72E-1B7F-D4AC-7B27-76043D6CBA3B</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>4FDA5A3C-26E3-70C8-D89D-F0BEA0656480</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

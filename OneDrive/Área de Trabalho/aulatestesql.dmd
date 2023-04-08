@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="aulatestesql" id="BE08ED6F-22A7-D8CA-6DDD-1EE8E142DE79" version="3.5">
+<createdBy>fbdio</createdBy>
+<createdTime>2023-04-08 01:13:23 UTC</createdTime>
+<ownerDesignName>aulatestesql</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>BE08ED6F-22A7-D8CA-6DDD-1EE8E142DE79</designId>
+</OSDM_Design>

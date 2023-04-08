@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="55FB1445-5E38-E96D-F49B-1AE4C822FC84">
+<createdBy>fbdio</createdBy>
+<createdTime>2023-04-08 01:13:23 UTC</createdTime>
+<ownerDesignName>aulatestesql</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>
