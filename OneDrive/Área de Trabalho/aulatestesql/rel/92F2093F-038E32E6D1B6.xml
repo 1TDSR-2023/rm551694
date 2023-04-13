@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="92F2093F-6571-F468-83F5-038E32E6D1B6" mainViewID="9792F63C-F71E-B64D-2B22-2B8C12548952">
-<createdBy>fbdio</createdBy>
-<createdTime>2023-04-08 01:13:27 UTC</createdTime>
-<ownerDesignName>aulatestesql</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
-</relationalModel>

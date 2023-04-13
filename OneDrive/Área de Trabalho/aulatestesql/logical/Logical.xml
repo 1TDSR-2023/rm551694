@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="A226BD18-9899-A3F4-3D56-FE8315E8112A" mainViewID="FCCAC31E-8755-0DBF-0E26-F2239542D1EC">
-<createdBy>fbdio</createdBy>
-<createdTime>2023-04-08 01:13:23 UTC</createdTime>
-<ownerDesignName>aulatestesql</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</LogicalDesign>

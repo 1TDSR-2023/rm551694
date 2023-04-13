@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="E6B5413C-2B7C-111E-C98B-C7E81F9A1487">
-<createdBy>fbdio</createdBy>
-<createdTime>2023-04-08 01:13:24 UTC</createdTime>
-<ownerDesignName>aulatestesql</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</BusinessInfoDesign>
