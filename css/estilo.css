@@ -4,6 +4,18 @@
 
 }
 
+html{
+    font-size: 70%;
+
+
+
+}
+
+
+
+
+
+
 .cabecalho{
     display: flex;
     justify-content: space-between;
@@ -41,11 +53,31 @@
 color: black;
 background-color: #fff;
  
+}
+
+.cabecalho p: :hover{
+    font-size: 5rem;
 
 
 
 }
 
+body{
+
+font-size: 10px;
+
+}
+
+
+.tit-foto{
+    font-size: 2em;
+
+}
+
+.conteudo p{
+    font-size: 4em;
+
+}
 
 
 
